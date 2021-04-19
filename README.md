@@ -1,2 +1,3 @@
-# -lab-device-utility-updates
-Release for the lab.PLHW Device Utility 
+# lab.PLHW Device Utility Updates
+
+Public repository intended for the auto update feature of our lab.PLHW Device Utility.
